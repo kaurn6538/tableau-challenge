@@ -7,23 +7,23 @@
 * Date: 7/17/2023
 
 ## Package Contents:
-1.JC-202211-citibike-tripdata.csv Input file downloaded from the citibike website (https://citibikenyc.com/)
+1. JC-202211-citibike-tripdata.csv Input file downloaded from the citibike website (https://citibikenyc.com/)
 
-2.JC-202212-citibike-tripdata.csv Input file downloaded from the citibike website (https://citibikenyc.com/)
+2. JC-202212-citibike-tripdata.csv Input file downloaded from the citibike website (https://citibikenyc.com/)
 
-3.JC-202301-citibike-tripdata.csv Input file downloaded from the citibike website (https://citibikenyc.com/)
+3. JC-202301-citibike-tripdata.csv Input file downloaded from the citibike website (https://citibikenyc.com/)
 
-4.JC-202302-citibike-tripdata.csv Input file downloaded from the citibike website (https://citibikenyc.com/)
+4. JC-202302-citibike-tripdata.csv Input file downloaded from the citibike website (https://citibikenyc.com/)
 
-5.JC-202303-citibike-tripdata.csv Input file downloaded from the citibike website (https://citibikenyc.com/)
+5. JC-202303-citibike-tripdata.csv Input file downloaded from the citibike website (https://citibikenyc.com/)
 
-6.JC-202304-citibike-tripdata.csv Input file downloaded from the citibike website (https://citibikenyc.com/)
+6. JC-202304-citibike-tripdata.csv Input file downloaded from the citibike website (https://citibikenyc.com/)
 
-7.CitiBike.ipynb Main Jupyter Notebook file which is used to read from above 6 input .csv files and then clense the data and create a final .csv file after combining all the 6 input .csv files
+7. CitiBike.ipynb Main Jupyter Notebook file which is used to read from above 6 input .csv files and then clense the data and create a final .csv file after combining all the 6 input .csv files
 
-8.JC-Citi-Bike.csv Final .csv file used in Tableau after clensing the data and combining above 6 input .csv files
+8. JC-Citi-Bike.csv Final .csv file used in Tableau after clensing the data and combining above 6 input .csv files
 
-9.JerseyCity-CitiBike-Visualization.twbx Tableau file can be downloaded and evaluated
+9. JerseyCity-CitiBike-Visualization.twbx Tableau file can be downloaded and evaluated
 
 [Note: Some of the files may be too large so Github may not show it]
 
