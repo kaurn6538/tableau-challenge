@@ -29,6 +29,6 @@ JerseyCity-CitiBike-Visualization.twbx Tableau file can be downloaded and evalua
 
 ## Instructions:
 
-Click on the [link](https://public.tableau.com/app/profile/navdeep.kaur6193/viz/JerseyCity-CitiBike-Visualization_17103448629560/JerseyCityBikeStory)which will take you to the Tableau Challenge page. This displays the citibike rental details and its usage. The analysis is also part of the Tableau Story.
+Click on the [link](https://public.tableau.com/app/profile/navdeep.kaur6193/viz/JerseyCity-CitiBike-Visualization_17103448629560/JerseyCityBikeStory) which will take you to the Tableau Challenge page. This displays the citibike rental details and its usage. The analysis is also part of the Tableau Story.
 If for any reason the above cannot be linked you can download the Tableau file from this github
 The jupyter notebook file shows the input files and how it has been clensed and combined into one .csv file for Tableau to consume for creating visualization
